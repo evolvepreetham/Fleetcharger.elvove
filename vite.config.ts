@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/[YOUR-REPO-NAME]/",
+  base: "/Fleetcharger.elvove/",
   server: {
     host: "::",
     port: 8080,
